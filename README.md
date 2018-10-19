@@ -21,7 +21,7 @@ Program ini terbagi menjadi beberapa bagian. Ada yang berfungsi sebagai framewor
 
 1. app.py : Folder ini berisi dari inisialisasi framework dan routing ke endpoint.
 
-2. .env : Folder ini merupakan environment yaitu pemakaian localhost, port, dan debug
+2. .env : Folder ini merupakan environment yaitu pemakaian localhost, port, dan debug jjjjjjjjjjjjjjjjjjjjj
 
 3. reources : Didalam folder ini merupakan isi dari data yang disimpan di file twitter.py
 
