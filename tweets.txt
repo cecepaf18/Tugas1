@@ -1,0 +1,1 @@
+[{"email": "john@haha.com", "tweet": "Ini ceritanya tweet Twitter yah"}, {"email": "jeff@haha.com", "tweet": "Ini ceritanya tweet Twitter yah"}]
