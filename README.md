@@ -1,4 +1,4 @@
-## Tugas Membuat Twitter Dasar
+## Tugas Membuat Twitter Dasar Ini Sudah Di Edit
 
 Tugas ini merupakan contoh pembuatan program dasar yang menyerupai program twitter. Jadi si pengguna bisa melakukan twit di dalam aplikasi ini. Merubah twit menghapus twit dan dan membaca twit.
 
@@ -26,3 +26,4 @@ Program ini terbagi menjadi beberapa bagian. Ada yang berfungsi sebagai framewor
 3. reources : Didalam folder ini merupakan isi dari data yang disimpan di file twitter.py
 
 file hasil dari program ini tersimpan di file tweets.json dan user.json
+bisa di panggil dan disimpan file nya
