@@ -26,3 +26,5 @@ Program ini terbagi menjadi beberapa bagian. Ada yang berfungsi sebagai framewor
 3. reources : Didalam folder ini merupakan isi dari data yang disimpan di file twitter.py
 
 file hasil dari program ini tersimpan di file tweets.json dan user.json
+
+ini merupakan hasil rubah
